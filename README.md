@@ -2,7 +2,7 @@
 
 Bioinformatics engineer and full-stack builder who **ships**. I design, build, and operate products end-to-end — from native mobile apps and production backends to ML/CV pipelines, on-prem LLM systems, and HPC bioinformatics.
 
-Each link is a public **architecture overview** — stack, design, and engineering decisions. Source code stays private; the story doesn't.
+Each project link is a public **architecture overview** — stack, design, and engineering decisions. Source code stays private; the story doesn't. Live apps also link straight to the App Store.
 
 > Status legend: 🟢 Production · 🔵 Shipped (App Store) · 🟡 Launch prep · ⚪ Concept / in build
 
@@ -11,10 +11,10 @@ Each link is a public **architecture overview** — stack, design, and engineeri
 ## 📱 Products & mobile apps
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| [TankBilligt](https://github.com/alentrgovcevic/TankBilligt-overview) | Denmark's cheapest-fuel app — **2,000+ users**, iOS + Android + Node/TS backend | SwiftUI · Compose · Express · PostgreSQL · Railway | 🟢 |
-| [Bliv Klar](https://github.com/alentrgovcevic/BlivKlar) | Danish citizenship exam prep with an AI content pipeline | SwiftUI · SwiftData · Python · Gemini | 🔵 |
-| [Lynkort](https://github.com/alentrgovcevic/Lynkort) | Danish flashcards with Leitner spaced repetition, zero deps | SwiftUI · SwiftData · CloudKit | 🔵 |
-| [LabCompanion](https://github.com/alentrgovcevic/LabCompanion-overview) | Lab calculators + protocol timers w/ Live Activities | SwiftUI · ActivityKit · CloudKit | 🟡 |
+| [TankBilligt](https://github.com/alentrgovcevic/TankBilligt-overview) · [ App Store](https://apps.apple.com/dk/app/tankbilligt-benzinpriser/id6757086573) | Denmark's cheapest-fuel app — **2,000+ users**, iOS + Android + Node/TS backend | SwiftUI · Compose · Express · PostgreSQL · Railway | 🟢 |
+| [Bliv Klar](https://github.com/alentrgovcevic/BlivKlar) · [ App Store](https://apps.apple.com/dk/app/bliv-klar-indf%C3%B8dsretspr%C3%B8ven/id6758513536) | Danish citizenship exam prep with an AI content pipeline | SwiftUI · SwiftData · Python · Gemini | 🔵 |
+| [Lynkort](https://github.com/alentrgovcevic/Lynkort) · [ App Store](https://apps.apple.com/dk/app/lynkort-flashcards/id6760855261) | Danish flashcards with Leitner spaced repetition, zero deps | SwiftUI · SwiftData · CloudKit | 🔵 |
+| [LabCompanion](https://github.com/alentrgovcevic/LabCompanion-overview) · [ App Store](https://apps.apple.com/dk/app/labcompanion-lab-calculator/id6770509131) | Lab calculators + protocol timers w/ Live Activities | SwiftUI · ActivityKit · CloudKit | 🔵 |
 | [KøreKlar](https://github.com/alentrgovcevic/KoreKlar-overview) | Driving-theory prep with AI-explained answers | SwiftUI · Gemini · StoreKit 2 | ⚪ |
 
 ## 🤖 AI & automation
