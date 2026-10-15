@@ -4,7 +4,7 @@ Bioinformatics engineer and full-stack builder who **ships**. I design, build, a
 
 Each project link is a public **architecture overview** — stack, design, and engineering decisions. Source code stays private; the story doesn't. Live apps also link straight to the App Store.
 
-> Status legend: 🟢 Production · 🔵 Shipped (App Store) · 🟡 Launch prep · ⚪ Concept / in build
+> Status legend: 🟢 Production · 🔵 Shipped (App Store) · 🟡 Launch prep · ⚪ Concept / in build · 🧪 Prototype (shelved)
 
 ---
 
@@ -15,8 +15,6 @@ Each project link is a public **architecture overview** — stack, design, and e
 | [Bliv Klar](https://github.com/alentrgovcevic/BlivKlar) · [ App Store](https://apps.apple.com/dk/app/bliv-klar-indf%C3%B8dsretspr%C3%B8ven/id6758513536) | Danish citizenship exam prep with an AI content pipeline | SwiftUI · SwiftData · Python · Gemini | 🔵 |
 | [Lynkort](https://github.com/alentrgovcevic/Lynkort) · [ App Store](https://apps.apple.com/dk/app/lynkort-flashcards/id6760855261) | Danish flashcards with Leitner spaced repetition, zero deps | SwiftUI · SwiftData · CloudKit | 🔵 |
 | [LabCompanion](https://github.com/alentrgovcevic/LabCompanion-overview) · [ App Store](https://apps.apple.com/dk/app/labcompanion-lab-calculator/id6770509131) | Lab calculators + protocol timers w/ Live Activities | SwiftUI · ActivityKit · CloudKit | 🔵 |
-| [KøreKlar](https://github.com/alentrgovcevic/KoreKlar-overview) | Driving-theory prep with AI-explained answers | SwiftUI · Gemini · StoreKit 2 | ⚪ |
-
 ## 🤖 AI & automation
 | Project | What it is | Stack | Status |
 |---|---|---|---|
@@ -36,15 +34,18 @@ Each project link is a public **architecture overview** — stack, design, and e
 |---|---|---|---|
 | [BREEDOME LIMS](https://github.com/alentrgovcevic/BREEDOME_LIMS) | Distributed lab info system for a 4-node, 5-year editing facility | Claris FileMaker 2025 · OAuth/OIDC · RBAC | ⚪ |
 
-## 🎮 Game development
-| Project | What it is | Stack | Status |
-|---|---|---|---|
-| [Tracewire](https://github.com/alentrgovcevic/Tracewire-overview) | Territory-carving auto-battler; engine-independent C# core, xUnit-tested | Unity 6 · C# · xUnit | ⚪ |
-
 ## 🛡️ Security
 | Project | What it is | Stack | Status |
 |---|---|---|---|
 | [Cybersecurity Toolkit](https://github.com/alentrgovcevic/CybersecurityToolkit) | Entropy analyzer (HIBP k-anonymity) + port scanner, API-ready | Python | ⚪ |
+
+## 🧪 Prototypes
+Built far enough to learn from, then shelved.
+
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| [KøreKlar](https://github.com/alentrgovcevic/KoreKlar-overview) | Driving-theory prep with AI-explained answers | SwiftUI · Gemini · StoreKit 2 | 🧪 |
+| [Tracewire](https://github.com/alentrgovcevic/Tracewire-overview) | Territory-carving auto-battler; engine-independent C# core, xUnit-tested | Unity 6 · C# · xUnit | 🧪 |
 
 ---
 
