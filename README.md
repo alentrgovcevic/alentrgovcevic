@@ -6,19 +6,19 @@ I run a lab’s operations, manage its data and build the software it runs on. B
 
 Portfolio: [alentrgovcevic.github.io](https://alentrgovcevic.github.io/) · [LinkedIn](https://www.linkedin.com/in/alen-trgovcevic/) · [ORCID 0000-0001-7709-6803](https://orcid.org/0000-0001-7709-6803)
 
-Most project links go to a public architecture overview (stack, design and engineering decisions); where the code itself is public, the link says so.
+Most project links go to a public architecture overview (stack, design and engineering decisions)
 
 ---
 
 ### Products & mobile apps
-Four in production. TankBilligt and Bliv Klar on both stores, Lynkort and LabCompanion on iOS.
+Four in production. TankBilligt, Bliv Klar and LabCompanion on both stores, Lynkort on iOS.
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
 | [TankBilligt](https://github.com/alentrgovcevic/TankBilligt-overview) · [App Store](https://apps.apple.com/dk/app/tankbilligt-benzinpriser/id6757086573) · [Google Play](https://play.google.com/store/apps/details?id=dk.tankbilligt.android) | Denmark's cheapest-fuel app — 2,000+ users. iOS + Android + a Node/TS backend with server-side IAP validation and cron price-scraping. | SwiftUI · Compose · Express/TS · PostgreSQL | Production |
 | [Bliv Klar](https://github.com/alentrgovcevic/BlivKlar) · [App Store](https://apps.apple.com/dk/app/bliv-klar-indf%C3%B8dsretspr%C3%B8ven/id6758513536) · [Google Play](https://play.google.com/store/apps/details?id=dk.atproductions.blivklar) | Danish citizenship exam prep on iOS, Android and web — the web flow takes real money through Stripe, with the receipt, right-of-withdrawal and terms pages Danish consumer law requires. | SwiftUI · Compose · Play Billing · Stripe/PHP | Production |
 | [Lynkort](https://github.com/alentrgovcevic/Lynkort) · [App Store](https://apps.apple.com/dk/app/lynkort-flashcards/id6760855261) | Danish flashcards with a Leitner spaced-repetition engine, lock-screen widget, and zero external dependencies. Live on iOS; the Android build is unreleased. | SwiftUI · SwiftData · CloudKit | App Store |
-| [LabCompanion](https://github.com/alentrgovcevic/LabCompanion-overview) · [App Store](https://apps.apple.com/dk/app/labcompanion-lab-calculator/id6770509131) | Lab calculators and protocol timers with Lock Screen Live Activities and iCloud sync, for bench scientists. Live on iOS; Android in development. | SwiftUI · ActivityKit · CloudKit | App Store |
+| [LabCompanion](https://github.com/alentrgovcevic/LabCompanion-overview) · [App Store](https://apps.apple.com/dk/app/labcompanion-lab-calculator/id6770509131) · [Google Play](https://play.google.com/store/apps/details?id=dk.ATproductions.labcompanion) | Lab calculators and protocol timers for bench scientists, on iOS and Android — Lock Screen Live Activities and iCloud sync on iOS. | SwiftUI · ActivityKit · CloudKit · Compose · Play Billing | Production |
 
 ### Lab systems & infrastructure
 The software a molecular biology section runs on, built and operated in-house.
